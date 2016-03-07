@@ -10,3 +10,4 @@ arise from all the factors that mess with the PATH.
 
 - .\Import-PuTTY.ps1 - One-liner to import PuTTY settings from OneDrive to the registry.
 
+- .\PuTTY-Global-Settings.ps1 - Globally change settings for PuTTY sessions.
